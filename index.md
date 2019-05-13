@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## 浩源小站
 
-You can use the [editor on GitHub](https://github.com/Alkane0050/alkane.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+这里是Alkane的个人博客小站,欢迎互联网的广大朋友们与我交流.
+我的Email:alkane0050@gmail.com
 
 ### Markdown
 
